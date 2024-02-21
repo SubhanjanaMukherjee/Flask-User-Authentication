@@ -1,2 +1,23 @@
-# Flask-User-Authentication
-Python Website Development: Utilizing Flask for authentication, database integration, and more. Build fully functional web applications with user account management, login/logout systems, and user data association. Perfect for creating customizable web projects.
+# Flask Web App Tutorial
+
+## Setup & Installation
+
+Make sure you have the latest version of Python installed.
+
+```bash
+git clone <repo-url>
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running The App
+
+```bash
+python main.py
+```
+
+## Viewing The App
+
+Go to `http://127.0.0.1:5000`
